@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Sheep body (cloud shape) -->
+  <circle cx="32" cy="34" r="16" fill="#4F46E5"/>
+  <circle cx="22" cy="30" r="10" fill="#4F46E5"/>
+  <circle cx="42" cy="30" r="10" fill="#4F46E5"/>
+  <circle cx="26" cy="22" r="8" fill="#4F46E5"/>
+  <circle cx="38" cy="22" r="8" fill="#4F46E5"/>
+  <circle cx="32" cy="20" r="8" fill="#4F46E5"/>
+  <!-- Sheep face -->
+  <ellipse cx="32" cy="38" rx="8" ry="9" fill="#E0E7FF"/>
+  <!-- Eyes -->
+  <circle cx="29" cy="36" r="1.5" fill="#1E1B4B"/>
+  <circle cx="35" cy="36" r="1.5" fill="#1E1B4B"/>
+  <!-- Ears -->
+  <ellipse cx="22" cy="25" rx="4" ry="5" fill="#A5B4FC" transform="rotate(-15 22 25)"/>
+  <ellipse cx="42" cy="25" rx="4" ry="5" fill="#A5B4FC" transform="rotate(15 42 25)"/>
+  <!-- Legs -->
+  <rect x="25" y="46" width="3" height="8" rx="1.5" fill="#312E81"/>
+  <rect x="36" y="46" width="3" height="8" rx="1.5" fill="#312E81"/>
+</svg>
