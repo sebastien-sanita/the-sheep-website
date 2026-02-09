@@ -10,12 +10,12 @@ import AnimatedSection from "@/components/ui/AnimatedSection";
 const plans = [
   {
     name: "Starter",
-    price: "49\u20ac",
+    price: "49\€",
     description: "Pour les freelances et solo",
     features: [
       "1 workspace",
-      "3 plateformes connect\u00e9es",
-      "Dashboard unifi\u00e9",
+      "3 plateformes connect\ées",
+      "Dashboard unifi\é",
       "500 leads/mois",
       "Support email",
     ],
@@ -25,13 +25,13 @@ const plans = [
   },
   {
     name: "Pro",
-    price: "99\u20ac",
+    price: "99\€",
     description: "Pour les PME et e-commerces",
     features: [
       "3 workspaces",
-      "Plateformes illimit\u00e9es",
-      "Analytics avanc\u00e9s",
-      "Leads illimit\u00e9s",
+      "Plateformes illimit\ées",
+      "Analytics avanc\és",
+      "Leads illimit\és",
       "Templates campagnes",
       "Insights IA",
       "Support prioritaire",
@@ -42,18 +42,18 @@ const plans = [
   },
   {
     name: "Agence",
-    price: "249\u20ac",
+    price: "249\€",
     description: "Pour les agences multi-clients",
     features: [
-      "Workspaces illimit\u00e9s",
-      "Plateformes illimit\u00e9es",
-      "Analytics avanc\u00e9s",
-      "Leads illimit\u00e9s",
+      "Workspaces illimit\és",
+      "Plateformes illimit\ées",
+      "Analytics avanc\és",
+      "Leads illimit\és",
       "Templates campagnes",
       "Insights IA",
-      "Gestion d\u2019\u00e9quipe",
+      "Gestion d\'\équipe",
       "API access",
-      "Support d\u00e9di\u00e9",
+      "Support d\édi\é",
     ],
     cta: "Commencer",
     href: "/tarifs",
@@ -68,7 +68,7 @@ export default function PricingPreviewSection() {
         <AnimatedSection>
           <SectionTitle
             title="Des tarifs simples et transparents"
-            subtitle="Choisissez le plan adapt\u00e9 \u00e0 votre activit\u00e9"
+            subtitle="Choisissez le plan adapt\é \à votre activit\é"
           />
         </AnimatedSection>
 
@@ -94,7 +94,7 @@ export default function PricingPreviewSection() {
               href="/tarifs"
               className="inline-flex items-center gap-2 text-sm font-semibold text-primary-600 transition-colors hover:text-primary-700"
             >
-              Voir tous les d\u00e9tails
+              Voir tous les d\étails
               <ArrowRight size={16} />
             </Link>
           </div>

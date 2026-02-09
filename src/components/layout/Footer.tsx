@@ -6,7 +6,7 @@ const footerSections = [
   {
     title: "Produit",
     links: [
-      { label: "Fonctionnalit\u00e9s", href: "/fonctionnalites" },
+      { label: "Fonctionnalit\és", href: "/fonctionnalites" },
       { label: "Tarifs", href: "/tarifs" },
       { label: "Blog", href: "/blog" },
       { label: "Changelog", href: "/changelog" },
@@ -15,17 +15,17 @@ const footerSections = [
   {
     title: "Entreprise",
     links: [
-      { label: "\u00c0 propos", href: "/a-propos" },
+      { label: "\À propos", href: "/a-propos" },
       { label: "Contact", href: "/contact" },
-      { label: "Carri\u00e8res", href: "/carrieres" },
+      { label: "Carri\ères", href: "/carrieres" },
       { label: "Partenaires", href: "/partenaires" },
     ],
   },
   {
-    title: "L\u00e9gal",
+    title: "L\égal",
     links: [
-      { label: "Mentions l\u00e9gales", href: "/mentions-legales" },
-      { label: "Politique de confidentialit\u00e9", href: "/politique-de-confidentialite" },
+      { label: "Mentions l\égales", href: "/mentions-legales" },
+      { label: "Politique de confidentialit\é", href: "/politique-de-confidentialite" },
       { label: "CGU/CGV", href: "/conditions-generales" },
     ],
   },

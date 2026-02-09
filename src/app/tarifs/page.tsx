@@ -11,7 +11,7 @@ import { ArrowRight, Sparkles } from "lucide-react";
 export const metadata: Metadata = {
   title: "Tarifs - The Sheep | Plans et prix",
   description:
-    "D\u00e9couvrez nos tarifs simples et transparents. Plan Starter \u00e0 49\u20ac/mois, Pro \u00e0 99\u20ac/mois et Agence \u00e0 249\u20ac/mois. Essai gratuit 14 jours.",
+    "D\écouvrez nos tarifs simples et transparents. Plan Starter \à 49\€/mois, Pro \à 99\€/mois et Agence \à 249\€/mois. Essai gratuit 14 jours.",
 };
 
 export default function TarifsPage() {

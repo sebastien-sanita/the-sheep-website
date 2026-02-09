@@ -11,24 +11,24 @@ interface FAQItem {
 
 const faqItems: FAQItem[] = [
   {
-    question: "Puis-je changer de plan en cours de route\u00a0?",
+    question: "Puis-je changer de plan en cours de route\ ?",
     answer:
-      "Oui, vous pouvez upgrader ou downgrader \u00e0 tout moment. Le changement est effectif imm\u00e9diatement et le montant est proratis\u00e9.",
+      "Oui, vous pouvez upgrader ou downgrader \à tout moment. Le changement est effectif imm\édiatement et le montant est proratis\é.",
   },
   {
-    question: "Y a-t-il des frais cach\u00e9s\u00a0?",
+    question: "Y a-t-il des frais cach\és\ ?",
     answer:
-      "Non. Le prix affich\u00e9 est le prix que vous payez. Pas de frais de setup, pas de frais de r\u00e9siliation.",
+      "Non. Le prix affich\é est le prix que vous payez. Pas de frais de setup, pas de frais de r\ésiliation.",
   },
   {
-    question: "Comment fonctionne la facturation\u00a0?",
+    question: "Comment fonctionne la facturation\ ?",
     answer:
       "La facturation est mensuelle ou annuelle selon votre choix. Paiement par carte bancaire ou virement SEPA. Factures disponibles dans votre espace.",
   },
   {
-    question: "Proposez-vous des tarifs sur mesure\u00a0?",
+    question: "Proposez-vous des tarifs sur mesure\ ?",
     answer:
-      "Oui, pour les grands comptes et agences avec des besoins sp\u00e9cifiques, contactez-nous pour un devis personnalis\u00e9.",
+      "Oui, pour les grands comptes et agences avec des besoins sp\écifiques, contactez-nous pour un devis personnalis\é.",
   },
 ];
 

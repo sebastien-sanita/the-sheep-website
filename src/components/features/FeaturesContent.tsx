@@ -15,7 +15,7 @@ import {
 const features: FeatureDetail[] = [
   {
     tag: "Dashboard",
-    title: "Visualisez toutes vos performances en un coup d\u2019\u0153il",
+    title: "Visualisez toutes vos performances en un coup d\'\œil",
     description:
       "Agrégez les données de Meta Ads, Google Ads et Instagram dans un tableau de bord unique. Le health score vous indique instantanément la santé de vos campagnes.",
     subFeatures: [
@@ -67,14 +67,14 @@ const features: FeatureDetail[] = [
   },
   {
     tag: "Intelligence Artificielle",
-    title: "Laissez l\u2019IA optimiser vos campagnes",
+    title: "Laissez l\'IA optimiser vos campagnes",
     description:
       "Recevez des recommandations automatiques pour améliorer vos performances. Alertes CPC, optimisation budget, opportunités détectées.",
     subFeatures: [
       "Recommandations automatiques",
       "Alertes intelligentes",
       "Optimisation budget",
-      "Détection d\u2019opportunités",
+      "Détection d\'opportunités",
     ],
     mockup: <InsightsMockup />,
   },

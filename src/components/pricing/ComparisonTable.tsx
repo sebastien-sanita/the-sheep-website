@@ -18,22 +18,22 @@ const comparisonData: ComparisonRow[] = [
     feature: "Workspaces",
     starter: "1",
     pro: "3",
-    agence: "Illimit\u00e9s",
+    agence: "Illimit\és",
   },
   {
-    feature: "Plateformes connect\u00e9es",
+    feature: "Plateformes connect\ées",
     starter: "3",
-    pro: "Illimit\u00e9es",
-    agence: "Illimit\u00e9es",
+    pro: "Illimit\ées",
+    agence: "Illimit\ées",
   },
   {
-    feature: "Dashboard unifi\u00e9",
+    feature: "Dashboard unifi\é",
     starter: true,
     pro: true,
     agence: true,
   },
   {
-    feature: "Analytics avanc\u00e9s",
+    feature: "Analytics avanc\és",
     starter: false,
     pro: true,
     agence: true,
@@ -41,8 +41,8 @@ const comparisonData: ComparisonRow[] = [
   {
     feature: "Leads/mois",
     starter: "500",
-    pro: "Illimit\u00e9s",
-    agence: "Illimit\u00e9s",
+    pro: "Illimit\és",
+    agence: "Illimit\és",
   },
   {
     feature: "Templates campagnes",
@@ -57,10 +57,10 @@ const comparisonData: ComparisonRow[] = [
     agence: true,
   },
   {
-    feature: "Gestion d\u2019\u00e9quipe",
+    feature: "Gestion d\'\équipe",
     starter: false,
     pro: false,
-    agence: "4 r\u00f4les",
+    agence: "4 r\ôles",
   },
   {
     feature: "API access",
@@ -77,11 +77,11 @@ const comparisonData: ComparisonRow[] = [
   {
     feature: "Rapports",
     starter: "Mensuels",
-    pro: "Personnalis\u00e9s",
-    agence: "Personnalis\u00e9s",
+    pro: "Personnalis\és",
+    agence: "Personnalis\és",
   },
   {
-    feature: "Export donn\u00e9es",
+    feature: "Export donn\ées",
     starter: false,
     pro: "CSV/PDF",
     agence: "CSV/PDF",
@@ -90,7 +90,7 @@ const comparisonData: ComparisonRow[] = [
     feature: "White-label",
     starter: false,
     pro: false,
-    agence: "Bient\u00f4t",
+    agence: "Bient\ôt",
   },
   {
     feature: "SLA garanti",
@@ -109,7 +109,7 @@ function CellContent({ value }: { value: CellValue }) {
     );
   }
 
-  if (value === "Bient\u00f4t") {
+  if (value === "Bient\ôt") {
     return (
       <span className="inline-flex items-center gap-1 text-sm text-gray-500">
         <Minus className="h-4 w-4" />

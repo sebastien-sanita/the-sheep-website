@@ -8,9 +8,9 @@ import Logo from "@/components/ui/Logo";
 import Button from "@/components/ui/Button";
 
 const navLinks = [
-  { label: "Fonctionnalit\u00e9s", href: "/fonctionnalites" },
+  { label: "Fonctionnalit\és", href: "/fonctionnalites" },
   { label: "Tarifs", href: "/tarifs" },
-  { label: "\u00c0 propos", href: "/a-propos" },
+  { label: "\À propos", href: "/a-propos" },
   { label: "Blog", href: "/blog" },
   { label: "Contact", href: "/contact" },
 ];

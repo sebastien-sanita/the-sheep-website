@@ -8,7 +8,7 @@ import AnimatedSection from "@/components/ui/AnimatedSection";
 const testimonials = [
   {
     quote:
-      "The Sheep a r\u00e9volutionn\u00e9 notre gestion de campagnes. On gagne 10h par semaine sur le reporting.",
+      "The Sheep a r\évolutionn\é notre gestion de campagnes. On gagne 10h par semaine sur le reporting.",
     author: "Marie Dubois",
     role: "Directrice",
     company: "Agence Digitale Nantes",
@@ -22,7 +22,7 @@ const testimonials = [
   },
   {
     quote:
-      "Le CRM int\u00e9gr\u00e9 nous permet de suivre nos leads du clic \u00e0 la conversion. Indispensable.",
+      "Le CRM int\égr\é nous permet de suivre nos leads du clic \à la conversion. Indispensable.",
     author: "Sophie Laurent",
     role: "Media Buyer",
     company: "AdFactory Lyon",

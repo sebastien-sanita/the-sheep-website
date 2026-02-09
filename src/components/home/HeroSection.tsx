@@ -28,8 +28,8 @@ const itemVariants = {
 const kpiData = [
   { label: "ROAS", value: "4.2x", change: "+18%", positive: true },
   { label: "Conversions", value: "1,284", change: "+24%", positive: true },
-  { label: "CPC moyen", value: "0.42\u20ac", change: "-12%", positive: true },
-  { label: "D\u00e9penses", value: "8,450\u20ac", change: "Ce mois", positive: true },
+  { label: "CPC moyen", value: "0.42€", change: "-12%", positive: true },
+  { label: "Dépenses", value: "8,450€", change: "Ce mois", positive: true },
 ];
 
 export default function HeroSection() {
@@ -53,7 +53,7 @@ export default function HeroSection() {
           <motion.div variants={itemVariants}>
             <div className="mb-8 inline-flex items-center gap-2 rounded-full border border-primary-200 bg-white/80 px-4 py-2 text-sm font-medium text-primary-700 shadow-sm backdrop-blur-sm">
               <Users size={16} className="text-primary-600" />
-              <span>Utilis\u00e9 par 200+ agences en France</span>
+              <span>Utilisé par 200+ agences en France</span>
             </div>
           </motion.div>
 
@@ -73,8 +73,8 @@ export default function HeroSection() {
             className="mt-6 max-w-2xl text-lg leading-relaxed text-gray-600 sm:text-xl"
           >
             The Sheep connecte Meta Ads, Google Ads et Instagram en un clic.
-            G\u00e9rez vos campagnes, analysez vos performances et boostez votre
-            ROAS &mdash; depuis un dashboard unique.
+            Gérez vos campagnes, analysez vos performances et boostez votre
+            ROAS — depuis un dashboard unique.
           </motion.p>
 
           {/* CTA Buttons */}
@@ -88,7 +88,7 @@ export default function HeroSection() {
             </Button>
             <Button variant="outline" size="lg" href="/demo">
               <Play size={18} className="mr-2" />
-              Voir la d\u00e9mo
+              Voir la démo
             </Button>
           </motion.div>
 
@@ -97,7 +97,7 @@ export default function HeroSection() {
             variants={itemVariants}
             className="mt-6 text-sm text-gray-500"
           >
-            Essai gratuit 14 jours &middot; Sans carte bancaire
+            Essai gratuit 14 jours · Sans carte bancaire
           </motion.p>
 
           {/* Dashboard Mockup */}

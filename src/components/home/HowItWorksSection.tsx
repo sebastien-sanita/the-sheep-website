@@ -11,21 +11,21 @@ const steps = [
     icon: Link2,
     title: "Connectez vos comptes",
     description:
-      "Liez vos comptes Meta Ads, Google Ads et Instagram en un clic gr\u00e2ce \u00e0 OAuth. Aucune configuration technique requise.",
+      "Liez vos comptes Meta Ads, Google Ads et Instagram en un clic gr\âce \à OAuth. Aucune configuration technique requise.",
   },
   {
     number: 2,
     icon: BarChart3,
-    title: "Centralisez vos donn\u00e9es",
+    title: "Centralisez vos donn\ées",
     description:
-      "Toutes vos campagnes, m\u00e9triques et leads remontent automatiquement dans votre dashboard unifi\u00e9.",
+      "Toutes vos campagnes, m\étriques et leads remontent automatiquement dans votre dashboard unifi\é.",
   },
   {
     number: 3,
     icon: Rocket,
     title: "Optimisez et scalez",
     description:
-      "Utilisez nos insights IA et templates pour cr\u00e9er de meilleures campagnes et augmenter votre ROAS.",
+      "Utilisez nos insights IA et templates pour cr\éer de meilleures campagnes et augmenter votre ROAS.",
   },
 ];
 
@@ -35,8 +35,8 @@ export default function HowItWorksSection() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <AnimatedSection>
           <SectionTitle
-            title="Comment \u00e7a marche"
-            subtitle="Op\u00e9rationnel en 3 minutes"
+            title="Comment \ça marche"
+            subtitle="Op\érationnel en 3 minutes"
           />
         </AnimatedSection>
 

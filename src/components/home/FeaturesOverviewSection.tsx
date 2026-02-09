@@ -16,27 +16,27 @@ import AnimatedSection from "@/components/ui/AnimatedSection";
 const features = [
   {
     icon: <LayoutDashboard size={24} />,
-    title: "Dashboard unifi\u00e9",
+    title: "Dashboard unifi\é",
     description:
-      "Visualisez toutes vos m\u00e9triques (d\u00e9penses, ROAS, conversions) dans un seul tableau de bord avec health score.",
+      "Visualisez toutes vos m\étriques (d\épenses, ROAS, conversions) dans un seul tableau de bord avec health score.",
   },
   {
     icon: <Megaphone size={24} />,
     title: "Gestion de campagnes",
     description:
-      "Cr\u00e9ez, \u00e9ditez et publiez vos campagnes sur toutes les plateformes sans changer d\u2019outil.",
+      "Cr\éez, \éditez et publiez vos campagnes sur toutes les plateformes sans changer d\'outil.",
   },
   {
     icon: <FileText size={24} />,
-    title: "Templates pr\u00eats \u00e0 l\u2019emploi",
+    title: "Templates pr\êts \à l\'emploi",
     description:
-      "12+ mod\u00e8les de campagnes par cat\u00e9gorie : e-commerce, leads, local, \u00e9v\u00e9nements.",
+      "12+ mod\èles de campagnes par cat\égorie : e-commerce, leads, local, \év\énements.",
   },
   {
     icon: <BarChart3 size={24} />,
-    title: "Analytics avanc\u00e9s",
+    title: "Analytics avanc\és",
     description:
-      "Tableaux de m\u00e9triques filtrables, graphiques comparatifs par plateforme et par p\u00e9riode.",
+      "Tableaux de m\étriques filtrables, graphiques comparatifs par plateforme et par p\ériode.",
   },
   {
     icon: <Users size={24} />,
@@ -48,7 +48,7 @@ const features = [
     icon: <Sparkles size={24} />,
     title: "Insights IA",
     description:
-      "Recommandations automatiques : optimisation budget, alertes CPC, opportunit\u00e9s d\u00e9tect\u00e9es.",
+      "Recommandations automatiques : optimisation budget, alertes CPC, opportunit\és d\étect\ées.",
   },
 ];
 
