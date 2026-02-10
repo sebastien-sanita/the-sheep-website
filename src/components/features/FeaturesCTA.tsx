@@ -26,7 +26,7 @@ export default function FeaturesCTA() {
           </p>
 
           <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
-            <Button variant="primary" size="lg" href="/inscription">
+            <Button variant="primary" size="lg" href="https://app.the-sheep.fr/dashboard">
               Commencer gratuitement
               <ArrowRight className="ml-2 h-5 w-5" />
             </Button>

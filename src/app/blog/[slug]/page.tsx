@@ -173,7 +173,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               avec notre plateforme tout-en-un.
             </p>
             <div className="mt-8">
-              <Button href="#" variant="primary" size="lg">
+              <Button href="https://app.the-sheep.fr/dashboard" variant="primary" size="lg">
                 Essai gratuit 14 jours
               </Button>
             </div>

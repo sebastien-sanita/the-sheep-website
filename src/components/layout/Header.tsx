@@ -71,10 +71,10 @@ export function Header() {
 
             {/* Desktop CTA Buttons */}
             <div className="hidden lg:flex lg:items-center lg:gap-3">
-              <Button variant="ghost" href="#">
+              <Button variant="ghost" href="https://app.the-sheep.fr/dashboard">
                 Se connecter
               </Button>
-              <Button variant="primary" href="#">
+              <Button variant="primary" href="https://app.the-sheep.fr/dashboard">
                 Essai gratuit
               </Button>
             </div>
@@ -163,10 +163,10 @@ export function Header() {
                 {/* Mobile CTA Buttons */}
                 <div className="border-t border-gray-100 px-4 py-6">
                   <div className="flex flex-col gap-3">
-                    <Button variant="ghost" href="#" className="w-full justify-center">
+                    <Button variant="ghost" href="https://app.the-sheep.fr/dashboard" className="w-full justify-center">
                       Se connecter
                     </Button>
-                    <Button variant="primary" href="#" className="w-full justify-center">
+                    <Button variant="primary" href="https://app.the-sheep.fr/dashboard" className="w-full justify-center">
                       Essai gratuit
                     </Button>
                   </div>

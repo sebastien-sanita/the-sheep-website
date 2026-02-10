@@ -31,7 +31,7 @@ export default function CTASection() {
             <Button
               variant="secondary"
               size="lg"
-              href="/inscription"
+              href="https://app.the-sheep.fr/dashboard"
               className="border-white bg-white text-primary-700 hover:bg-primary-50"
             >
               Commencer gratuitement
@@ -40,7 +40,7 @@ export default function CTASection() {
             <Button
               variant="outline"
               size="lg"
-              href="/demo"
+              href="/contact"
               className="border-white/30 text-white hover:border-white hover:text-white"
             >
               Demander une d&eacute;mo

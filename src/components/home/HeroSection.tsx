@@ -82,13 +82,13 @@ export default function HeroSection() {
             variants={itemVariants}
             className="mt-10 flex flex-col items-center gap-4 sm:flex-row"
           >
-            <Button variant="primary" size="lg" href="/inscription">
+            <Button variant="primary" size="lg" href="https://app.the-sheep.fr/dashboard">
               Commencer gratuitement
               <ArrowRight size={20} className="ml-2" />
             </Button>
-            <Button variant="outline" size="lg" href="/demo">
+            <Button variant="outline" size="lg" href="/contact">
               <Play size={18} className="mr-2" />
-              Voir la démo
+              Demander une démo
             </Button>
           </motion.div>
 
@@ -115,7 +115,7 @@ export default function HeroSection() {
                     <div className="h-3 w-3 rounded-full bg-success-500" />
                   </div>
                   <div className="rounded-lg bg-gray-100 px-4 py-1.5 text-xs text-gray-400">
-                    app.thesheep.io/dashboard
+                    app.the-sheep.fr/dashboard
                   </div>
                   <div className="w-16" />
                 </div>
